@@ -1,0 +1,12 @@
+# Ignorar carpetas de entorno virtual (no queremos subir gigas de basura)
+venv/
+env/
+.env
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de configuración del sistema (Windows/Mac)
+.DS_Store
+Thumbs.db

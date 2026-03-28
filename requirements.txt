@@ -1,0 +1,5 @@
+# FastAPI: El framework para construir la lógica de la API
+fastapi
+
+# Uvicorn: El servidor web que permite que la API corra en internet
+uvicorn
